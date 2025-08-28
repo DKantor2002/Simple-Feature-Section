@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://dkantor2002.github.io/Simple-Feature-Section/)
+![screenshot](/resources/Simple-Feature-SS.png)
 
 <!-- What have you learned/improved?-->
 
